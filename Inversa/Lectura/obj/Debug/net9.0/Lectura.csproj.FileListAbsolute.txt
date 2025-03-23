@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\Proyectos VSC\Inversa\Lectura\bin\Debug\net9.0\Lectura.exe
+C:\Users\Lenovo\Documents\Proyectos VSC\Inversa\Lectura\bin\Debug\net9.0\Lectura.deps.json
+C:\Users\Lenovo\Documents\Proyectos VSC\Inversa\Lectura\bin\Debug\net9.0\Lectura.runtimeconfig.json
+C:\Users\Lenovo\Documents\Proyectos VSC\Inversa\Lectura\bin\Debug\net9.0\Lectura.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\Inversa\Lectura\bin\Debug\net9.0\Lectura.pdb
+C:\Users\Lenovo\Documents\Proyectos VSC\Inversa\Lectura\obj\Debug\net9.0\Lectura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Proyectos VSC\Inversa\Lectura\obj\Debug\net9.0\Lectura.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\Inversa\Lectura\obj\Debug\net9.0\Lectura.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Proyectos VSC\Inversa\Lectura\obj\Debug\net9.0\Lectura.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\Inversa\Lectura\obj\Debug\net9.0\Lectura.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\Inversa\Lectura\obj\Debug\net9.0\refint\Lectura.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\Inversa\Lectura\obj\Debug\net9.0\Lectura.pdb
+C:\Users\Lenovo\Documents\Proyectos VSC\Inversa\Lectura\obj\Debug\net9.0\Lectura.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\Inversa\Lectura\obj\Debug\net9.0\ref\Lectura.dll
