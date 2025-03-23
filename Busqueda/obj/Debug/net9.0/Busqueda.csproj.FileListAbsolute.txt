@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\Proyectos VSC\Busqueda\bin\Debug\net9.0\Busqueda.exe
+C:\Users\Lenovo\Documents\Proyectos VSC\Busqueda\bin\Debug\net9.0\Busqueda.deps.json
+C:\Users\Lenovo\Documents\Proyectos VSC\Busqueda\bin\Debug\net9.0\Busqueda.runtimeconfig.json
+C:\Users\Lenovo\Documents\Proyectos VSC\Busqueda\bin\Debug\net9.0\Busqueda.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\Busqueda\bin\Debug\net9.0\Busqueda.pdb
+C:\Users\Lenovo\Documents\Proyectos VSC\Busqueda\obj\Debug\net9.0\Busqueda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Proyectos VSC\Busqueda\obj\Debug\net9.0\Busqueda.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\Busqueda\obj\Debug\net9.0\Busqueda.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Proyectos VSC\Busqueda\obj\Debug\net9.0\Busqueda.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\Busqueda\obj\Debug\net9.0\Busqueda.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\Busqueda\obj\Debug\net9.0\refint\Busqueda.dll
+C:\Users\Lenovo\Documents\Proyectos VSC\Busqueda\obj\Debug\net9.0\Busqueda.pdb
+C:\Users\Lenovo\Documents\Proyectos VSC\Busqueda\obj\Debug\net9.0\Busqueda.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Proyectos VSC\Busqueda\obj\Debug\net9.0\ref\Busqueda.dll
